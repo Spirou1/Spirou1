@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **enzospironellipinheiro@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KKu4dv_p5yvB8QJFSmOQaIk6WPHaruVP/view?usp=sharing](https://drive.google.com/file/d/1KKu4dv_p5yvB8QJFSmOQaIk6WPHaruVP/view?usp=sharing)
+- 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/1pSPRvGgdYE8Y8zpRJgdoelXVarEMqY2-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
