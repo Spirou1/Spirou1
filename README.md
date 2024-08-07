@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **enzospironellipinheiro@gmail.com**
 
-- 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/1pSPRvGgdYE8Y8zpRJgdoelXVarEMqY2-/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/enzo-spironelli-pinheiro-41b37a2b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/enzo-spironelli-pinheiro-41b37a2b7" height="30" width="40" /></a>
