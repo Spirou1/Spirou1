@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Contact:</h1>
-  <code>enzospironellipinheiro@gmail.com</code>
+  <h3>Contact: <a href="mailto:enzospironellipinheiro@gmail.com">enzospironellipinheiro@gmail.com</a></h3>
 </div>
 
 ---
